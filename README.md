@@ -9,4 +9,4 @@ By leveraging the power of community collaboration, we aim to create a valuable 
 
 Whether you're a cybersecurity enthusiast, a seasoned professional, or simply curious about the world of honeypots, this repository is the perfect place to explore, learn, and share knowledge. Together, let's strengthen our defenses, outsmart adversaries, and make the digital world a safer place.
 
-The project has not yet started, I'm planning to buy a dedicated server and  start setting up the environtment.
+The project has started, you can already start observing the list of IOCs that will be updated regulary.
