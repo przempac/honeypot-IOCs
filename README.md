@@ -10,3 +10,6 @@ By leveraging the power of community collaboration, we aim to create a valuable 
 Whether you're a cybersecurity enthusiast, a seasoned professional, or simply curious about the world of honeypots, this repository is the perfect place to explore, learn, and share knowledge. Together, let's strengthen our defenses, outsmart adversaries, and make the digital world a safer place.
 
 The project has started, you can already start observing the list of IOCs that will be updated regulary.
+
+All steps of installing and configuring our honeypot were described in detail on our TokenZero blog here: 
+https://tokenzero.000webhostapp.com/2023/07/honeypot-how-to-start-gathering-adversary-iocs
