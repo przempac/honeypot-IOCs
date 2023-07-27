@@ -1,7 +1,13 @@
-Examples of IOCs gathered within the first 10 minutes after deploying honeypot:
+Examples of IOCs gathered within the first 30 minutes after deploying honeypot:
 
-1) 89.219.254.154 - tci.ir
-2) 76.174.160.237 - spectrum.com
+1) 89.219.254.154 - tci.ir - Iran (Islamic Republic of)
+2) 76.174.160.237 - spectrum.com - United States of America
+3) 5.42.94.77 - garantia.tv - Sweden
+4) 220.225.126.55 - rcom.co.in - India
+5) 43.128.233.179 - tencent.com - Japan
+6) 157.7.207.25 - gmo.jp - Japan
+7) 43.132.200.4 - tencent.com - Hong Kong
+
 
 The rest of ips/domains/ttps/hashes/tools will be shown using charts after one week of collecting.
 Stay tuned. It's planned to achive it by downloading sysmon for linux and forwarding logs to free trial of SIEM like ELK.
