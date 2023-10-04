@@ -10,6 +10,6 @@ Examples of IOCs gathered within the first 30 minutes after deploying honeypot:
 
 
 The rest of ips/domains/ttps/hashes/tools will be shown using charts after one week of collecting.
-Stay tuned. It's planned to achive it by downloading sysmon for linux and forwarding logs to free trial of SIEM like ELK.
+Stay tuned. It's planned to achieve it by downloading sysmon for linux and forwarding logs to the free trial of SIEM like ELK.
 
 
